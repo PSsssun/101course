@@ -7,3 +7,4 @@ r000*/
 .wip/
 *.exe
 .cache
+*.json
